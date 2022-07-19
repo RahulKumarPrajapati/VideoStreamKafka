@@ -1,0 +1,7 @@
+BOOTSTRAP_SERVER = 'localhost:9092'
+MAX_REQUEST_SIZE = 101626282
+BUFFER_MEMORY = 101626282
+FETCH_MAX_BYTES = 101626282
+YOLOV_MODEL_DIR = '/home/vantage/yolov5'
+YOLOV_MODEL_NAME = '/home/vantage/yolov5/best.pt'
+STREAM_VIDEO_STORAGE_PATH = '/home/vantage/VideoStreamKafka/data'
